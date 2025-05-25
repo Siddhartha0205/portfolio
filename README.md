@@ -1,16 +1,16 @@
 # Master Graduate
 
-###Education
+### Education
 M.Sc. in Electrical Engineering
 
 
-###Work Experience
+### Work Experience
 Working Student at Mercedes Benz
 
 Software Engineer at Robert Bosch Engineering and Business Solutions Pvt Ltd
 
 
-###Projects
+### Projects
 
 Master Thesis: Intelligent Vehicles Access and Exit System Design
 
